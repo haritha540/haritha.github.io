@@ -1,0 +1,15 @@
+---
+layout: page
+title: "Teaching"
+permalink: /teaching/
+---
+
+### Instructor of Record
+- Introduction to Web Development – Spring 2024
+
+### Teaching Assistant
+- CS I (Python) – Fall 2024, Spring 2025  
+- Web Development – Fall 2023  
+- CS II – Spring 2022 to Spring 2023  
+- Java II – Fall 2019, Fall 2020 to Spring 2022  
+- Automatic Control Systems (OSU) – Spring 2011, Spring 2012

@@ -1,0 +1,23 @@
+title: "Haritha Prasad Rayakota"
+email: "hrayakota@unomaha.edu"
+description: "Ph.D. Candidate, Computing and Information Science"
+baseurl: ""
+url: "https://yourusername.github.io"
+github_username: yourusername
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+minimal_mistakes_skin: "air"
+
+author:
+  name: "Haritha Prasad Rayakota"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Ph.D. Candidate at University of Nebraska at Omaha"
+  location: "Nebraska, USA"
+  email: "hrayakota@unomaha.edu"
